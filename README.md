@@ -14,8 +14,11 @@ Perform basic statistical analysis
 Visualize data using Matplotlib
 
 🛠 Technologies Used
+
 Python 3
+
 Pandas
+
 Matplotlib
 
 Install required libraries: pip install pandas matplotlib
