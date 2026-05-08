@@ -20,14 +20,6 @@ Matplotlib
 
 Install required libraries: pip install pandas matplotlib
 
-📂 Project Structure
-
-pandas-movie-analysis/
-│
-├── movie_analysis.py
-├── README.md
-
-
 📈 Visualizations Included
 
 Genre Distribution
